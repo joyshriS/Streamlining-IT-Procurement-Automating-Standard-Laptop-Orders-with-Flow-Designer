@@ -1,0 +1,2 @@
+# Streamlining-IT-Procurement-Automating-Standard-Laptop-Orders-with-Flow-Designer
+Here’s a concise version within 350 characters:  **The Standard Laptop Task flow automates Catalog Task creation for approved laptop requests. Once approval is met, it generates a task under the Requested Item and assigns it to the Hardware group. This reduces manual effort, speeds processing, and ensures requests are routed to the right team.
