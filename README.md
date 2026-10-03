@@ -7,3 +7,5 @@ The Flow Assignment configuration connects the Standard Laptop Service Catalog i
 
 By automating the standard laptop procurement process with ServiceNow's Flow Designer, the project effectively addresses inefficiencies and reduces manual overhead. This streamlined workflow ensures timely configuration of laptops, minimizes user wait times, and enhances overall productivity within the IT department. The implementation of this automated solution not only optimizes resource allocation but also significantly improves the user experience by providing a seamless and efficient procurement process.
 
+Demo Link:-
+https://drive.google.com/drive/folders/1YhvzFrFh4b0L0lK7DMdGEgqH1vZ507WE
